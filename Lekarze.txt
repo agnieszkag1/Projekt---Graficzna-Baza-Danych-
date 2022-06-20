@@ -1,0 +1,64 @@
+Maja Kowalska 987678567 Wiazowa_56_40-123_Katowice kardiolog 2345
+1 15 19 
+2 13 17 
+3 8 20 
+4 0 0
+5 0 0
+6 8 12
+7 0 0
+Roman Kowalski 765256768 Mila_6_46-128_Katowice pediatra 2345
+1 15 19
+2 0 0
+3 8 20
+4 0 0
+5 0 0
+6 8 12
+7 0 0
+Roman Kowalski 765256768 Mila_6_46-128_Katowice pediatra 4341
+1 15 19
+2 0 0
+3 8 20
+4 0 0
+5 0 0
+6 8 12
+7 0 0
+Asia Lewandowska 981185617 Wesola_8_43-128_Katowice okulista 2346
+1 10 5
+2 0 0
+3 8 20
+4 0 0
+5 0 0
+6 8 12
+7 0 0
+Paula Tomaszewska 798789567 Lekarska_8_43-128_Katowice lekarz_rodzinny 4311 
+1 10 5
+2 0 0
+3 8 20
+4 0 0
+5 0 0
+6 8 12
+7 13 19
+Jadwiga Kucharska 231543678 Informatyczna_8_48-128_Katowice kardiolog 2347
+1 10 5
+2 0 0
+3 8 12
+4 14 18
+5 0 0
+6 8 12
+7 13 19
+Bogna Mazurek 879999777 Informatyczna_8_48-128_Tychy ortopeda 4319
+1 0 0
+2 0 0
+3 8 12
+4 14 18
+5 0 0
+6 8 12
+7 13 19
+Bogna Mazurek 879999777 Informatyczna_8_48-128_Tychy ortopeda 4319
+1 0 0
+2 0 0
+3 8 12
+4 14 18
+5 0 0
+6 8 12
+7 13 19

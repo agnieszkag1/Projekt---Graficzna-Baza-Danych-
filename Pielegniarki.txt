@@ -1,0 +1,48 @@
+Maja Kowalska 987678567 Wiazowa_56_40-123_Katowice 01 1
+1 15 19
+2 13 15
+3 8 20
+4 0 0
+5 0 0
+6 8 12
+7 0 0
+Roman Kowalski 765256768 Mila_6_46-128_Katowice 02 2
+1 15 19
+2 0 0
+3 8 23
+4 0 0
+5 0 0
+6 8 12
+7 0 0
+Asia Lewandowska 981185617 Wesola_8_43-128_Katowice 03 5
+1 10 5
+2 0 0
+3 8 20
+4 0 0
+5 0 0
+6 8 16
+7 0 0
+Paula Tomaszewska 798789567 Lekarska_8_43-128_Katowice 04  12
+1 10 5
+2 0 0
+3 8 22
+4 0 0
+5 0 0
+6 8 12
+7 13 19
+Jadwiga Kucharska 231543678 Informatyczna_8_48-128_Katowice 05 5
+1 10 5
+2 0 0
+3 8 10
+4 14 16
+5 0 0
+6 8 12
+7 13 19
+Bogna Mazurek 879999777 Informatyczna_8_48-128_Tychy 06 7
+1 0 0
+2 0 0
+3 8 12
+4 14 18
+5 0 0
+6 8 12
+7 13 19
